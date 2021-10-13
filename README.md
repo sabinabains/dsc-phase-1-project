@@ -2,13 +2,18 @@
 
 ## Business Problem
 
+Explore historical movie data to determine types of movies that are most successful at the box office for Microsoft’s studio to utilize. This exploratory analysis dives into the following topics:
+* Genre Analysis
+* Crew Analysis
+* Monthly Trends
+
+
 ## Data
+
+Data is sourced from The Numbers ans IMDB.
 
 * [IMDB](https://www.imdb.com/)
 * [The Numbers](https://www.the-numbers.com/)
-
-
-## Results
 
 ## Genre Analysis
 
