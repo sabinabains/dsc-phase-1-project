@@ -55,13 +55,16 @@ May was the most successful month, generating 195MM on average. June releases ge
 ![image](https://user-images.githubusercontent.com/71892324/137145541-e000e78e-1b56-43ae-9e6f-7f7eb39f9575.png)
 
 
-#Conclusion
+# Conclusion
 
 * Kick off Microsoft’s movie studio
-by creating an animation film, as these tend to generate the highest profits
-with minimal risk of costing more than its gross earnings. Adventure and Family are also good options
-* Utilizing experienced crew members in the Animation genre such as Pierre Coffin as Director, Janey Healy as Producer, and Michael Giacchino as composer will yield successful films
-* Microsoft should avoid delaying movie releases to late summer and fall seasons and should prioritize releasing films in May, June, or July, as viewers are more likely to hit the movie theatre then.
+by creating an animation film, as this genre generates the highest profits with
+minimal risk of costing more than its gross earnings.  Adventure and Family films also generate high
+profits with relatively low budgets.
+
+* Utilizing experienced crew members in the Animation genre such as Pierre Coffin as Director,  Janey Healy as Producer, and Michael Giacchino as composer will yield successful films. These creators also demonstrate versatility across genres.
+
+* Microsoft should prioritize releasing films in May, June, or July, as viewers are more likely to hit the movie theatre in these months.  Avoid delaying movie releases, as late summer and early fall generate the lowest gross among films.
 
 
 
