@@ -60,7 +60,7 @@ May was the most successful month, generating 240MM on average. June releases ge
 ![image](https://user-images.githubusercontent.com/71892324/137183594-c371f5bd-f47f-4ec1-b068-45c27f10548d.png)
 
 
-August, September, and October are the least successful months-- yielding an average of 91MM, 66MM, and 78MM respectively.
+August, September, and October are the least successful months-- yielding an average of 91MM, 66MM, and 73MM respectively.
 
 
 # Conclusions and Recomnedations
