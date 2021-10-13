@@ -12,7 +12,7 @@
 
 Animation Films have the highest median profit on average, with the lowest relative median budget
 
-insert photo here
+![image](https://user-images.githubusercontent.com/71892324/137145150-0a79dbf7-7e74-4817-98ce-157cb978636a.png)
 
 The following crew members are the most experienced in the Animation genre, and should be utilized in Microsoft's films
 
