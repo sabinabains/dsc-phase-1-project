@@ -2,7 +2,7 @@
 
 ## Business Problem
 
-Microsoft is creating a movie studio and would like preliminary insights on how to create movies. This project uses historical movie data to determine types of movies that are most successful at the box office for Microsoft’s studio to utilize. This exploratory analysis dives into the following topics:
+Microsoft is creating a movie studio and would like preliminary insights on how to create movies. Using historical movie data, we can determine which types of movies are most successful at the box office for Microsoft’s studio to utilize. This exploratory analysis dives into the following topics:
 * Genre Analysis
 * Crew Analysis
 * Monthly Trends
@@ -17,7 +17,7 @@ Data is sourced from The Numbers and IMDB. Using the movie title and release yea
 
 ## Genre Analysis
 
-Animation Films generate the highest median profit on average, with the lowest relative median budget
+Animation Films generate the highest median profit on average, with the lowest relative median budget.
 
 ![image](https://user-images.githubusercontent.com/71892324/137145150-0a79dbf7-7e74-4817-98ce-157cb978636a.png)
 
@@ -25,9 +25,9 @@ Animation films outperformed all other genres with a median profit of 136.8MM.  
 
 Adventure and Family have high average profits as well while keeping low costs
 
-Action, Sci-Fi, Fantasy, and Comedy genres have higher budgets than profit on average
+Action, Sci-Fi, Fantasy, and Comedy genres have higher budgets than profit on average, and are more risky
 
-Using the median rather than the mean excludes potential outliers in films, demonstrating Animation films as a clear winner
+Using the median rather than the mean excludes potential outliers in films, further demonstrating Animation films as a clear winner
 
 ## Crew Analysis
 
@@ -59,8 +59,10 @@ May was the most successful month, generating 195MM on average. June releases ge
 
 ![image](https://user-images.githubusercontent.com/71892324/137145541-e000e78e-1b56-43ae-9e6f-7f7eb39f9575.png)
 
+August, September, and October are the least successful months-- yielding an average of 70.1MM, 50.7MM, and 53.3MM respectively.
 
-# Conclusion
+
+# Conclusions and Recomnedations
 
 * Kick off Microsoft’s movie studio
 by creating an animation film, as this genre generates the highest profits with
