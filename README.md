@@ -21,11 +21,11 @@ Animation Films generate the highest median profit on average, with the lowest r
 
 ![image](https://user-images.githubusercontent.com/71892324/137145150-0a79dbf7-7e74-4817-98ce-157cb978636a.png)
 
-Animation films outperformed all other genres with a median profit of 136.8MM.  Median budget for this genre was 75MM.
+Animation films outperformed all other genres with a median profit of 196.4MM.  Median budget for this genre was 85MM.
 
-Adventure and Family have high average profits as well while keeping low costs
+Adventure and Sci-Fi have high average profits as well while keeping low costs
 
-Action, Sci-Fi, Fantasy, and Comedy genres have higher budgets than profit on average, and are more risky
+Action and Fantasy genres have higher budgets than profit on average, and therefore are risky
 
 Using the median rather than the mean excludes potential outliers in films, further demonstrating Animation films as a clear winner
 
@@ -55,18 +55,17 @@ Films released in May generate the highest mean gross at the box office, followe
 
 ![image](https://user-images.githubusercontent.com/71892324/137145519-8a0ba906-ef8d-455d-85ba-d4fe275dbb21.png)
 
-May was the most successful month, generating 195MM on average. June releases generated 167.5MM, and July releases generated 157.3 on average.
+May was the most successful month, generating 240MM on average. June releases generated 227MM, and July releases generated 189MM on average.
 
 ![image](https://user-images.githubusercontent.com/71892324/137145541-e000e78e-1b56-43ae-9e6f-7f7eb39f9575.png)
 
-August, September, and October are the least successful months-- yielding an average of 70.1MM, 50.7MM, and 53.3MM respectively.
+August, September, and October are the least successful months-- yielding an average of 91MM, 66MM, and 78MM respectively.
 
 
 # Conclusions and Recomnedations
 
-* Kick off Microsoft’s movie studio
-by creating an animation film, as this genre generates the highest profits with
-minimal risk of costing more than its gross earnings.  Adventure and Family films also generate high
+* Kick off Microsoft’s movie studio by creating an animation film, as this genre generates the highest profits with
+minimal risk of costing more than its gross earnings.  Adventure and Sci-Fi films also generate high
 profits with relatively low budgets.
 
 * Utilizing experienced crew members in the Animation genre such as Pierre Coffin as Director,  Janey Healy as Producer, and Michael Giacchino as composer will yield successful films. These creators also demonstrate versatility across genres.
