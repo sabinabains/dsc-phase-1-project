@@ -19,7 +19,7 @@ Data is sourced from The Numbers and IMDB. Using the movie title and release yea
 
 Animation Films generate the highest median profit on average, with the lowest relative median budget.
 
-![image](https://user-images.githubusercontent.com/71892324/137145150-0a79dbf7-7e74-4817-98ce-157cb978636a.png)
+![image](https://user-images.githubusercontent.com/71892324/137183565-ed5ffa63-7d8b-4594-8815-f745ed947dbf.png)
 
 Animation films outperformed all other genres with a median profit of 196.4MM.  Median budget for this genre was 85MM.
 
@@ -53,11 +53,12 @@ Cinco Paul and Ken Daurio write the most successful Animation,  Adventure, and C
 
 Films released in May generate the highest mean gross at the box office, followed by films in June and July.
 
-![image](https://user-images.githubusercontent.com/71892324/137145519-8a0ba906-ef8d-455d-85ba-d4fe275dbb21.png)
+![image](https://user-images.githubusercontent.com/71892324/137183626-48f349ae-0211-4344-a944-f47d1357bad5.png)
 
 May was the most successful month, generating 240MM on average. June releases generated 227MM, and July releases generated 189MM on average.
 
-![image](https://user-images.githubusercontent.com/71892324/137145541-e000e78e-1b56-43ae-9e6f-7f7eb39f9575.png)
+![image](https://user-images.githubusercontent.com/71892324/137183594-c371f5bd-f47f-4ec1-b068-45c27f10548d.png)
+
 
 August, September, and October are the least successful months-- yielding an average of 91MM, 66MM, and 78MM respectively.
 
