@@ -4,11 +4,7 @@
 
 ## Data
 
-
-* [Box Office Mojo](https://www.boxofficemojo.com/)
 * [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 
 
@@ -26,14 +22,4 @@ Films released in May generate the highest mean??? gross at the box office, foll
 
 insert photo **here**
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
-
-Conclusion
-
-
-#Repo Structure:
-├── data
-├── images
-├── README.md
-├── Presentation.pdf
-└── .ipynb
+#Conclusion
