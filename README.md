@@ -33,19 +33,19 @@ Using the median rather than the mean excludes potential outliers in films, furt
 
 The following crew members are the most experienced in the Animation genre, with expertise in other successful genres as well, and should be utilized in Microsoft's films
 
-![image](https://user-images.githubusercontent.com/71892324/137145435-7688b184-a379-434b-87b1-cc13240b27fb.png)
+![image](https://user-images.githubusercontent.com/71892324/137219992-304ef43a-c256-4966-a0a3-51ee70b2a120.png)
 
 Janet Healy is the most profitable producer with 7 works in the Animation Genre. 
 
-![image](https://user-images.githubusercontent.com/71892324/137145472-c523f80e-d69e-4e01-926a-aa6b65bd26a6.png)
+![image](https://user-images.githubusercontent.com/71892324/137220000-fb6995ff-ef4b-44ec-a8d7-acea6db4af58.png)
 
 Pierre Coffin is the most successful Director in the Adventure, Animation, and Comedy Genres.
 
-![image](https://user-images.githubusercontent.com/71892324/137145483-7f8805a3-34d4-4518-aca5-7634080dc1e4.png)
+![image](https://user-images.githubusercontent.com/71892324/137220015-ecfc43de-1c70-491e-8c4d-e87e964ed508.png)
 
 Michael Giacchino tops the list of most successful composers, with experience composing 6 works that vary in Genre
 
-![image](https://user-images.githubusercontent.com/71892324/137145489-68ea0177-6714-4dec-84d2-538e5d461c00.png)
+![image](https://user-images.githubusercontent.com/71892324/137220023-b027900f-4719-41b1-af54-c999172b31a4.png)
 
 Cinco Paul and Ken Daurio write the most successful Animation,  Adventure, and Comedy films
 
